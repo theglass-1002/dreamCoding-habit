@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dreamCoding-habit/static/css/main.b119e2e2.css",
+    "main.js": "/dreamCoding-habit/static/js/main.9c1b3eb5.js",
+    "index.html": "/dreamCoding-habit/index.html",
+    "main.b119e2e2.css.map": "/dreamCoding-habit/static/css/main.b119e2e2.css.map",
+    "main.9c1b3eb5.js.map": "/dreamCoding-habit/static/js/main.9c1b3eb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b119e2e2.css",
+    "static/js/main.9c1b3eb5.js"
+  ]
+}
